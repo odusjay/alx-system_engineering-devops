@@ -1,1 +1,1 @@
-My first independent readme
+su betty :script that switches the current user to the user betty
